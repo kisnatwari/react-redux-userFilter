@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Krishna Tiwari",
+        "email": "kisnatwari@gmail.com",
+        "mobile": 9199987267
+    },
+    {
+        "id": 2,
+        "name": "Rohan Gautam",
+        "email": "rohan@gmail.com",
+        "mobile": 216515165
+    },
+    {
+        "id": 3,
+        "name": "Sikha Rani",
+        "email": "sikha@gmail.com",
+        "mobile": 9600230
+    },
+    {
+        "id": 4,
+        "name": "Priya Kumari",
+        "email": "priya@gmail.com",
+        "mobile": 3698546
+    },
+    {
+        "id": 5,
+        "name": "Bikram Pant",
+        "email": "bikram@gmail.com",
+        "mobile": 51056166
+    }
+]
