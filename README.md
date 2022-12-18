@@ -1,7 +1,7 @@
 <h3>React-Redux userFilter</h3>
 <hr/>
 <p>A small application to filter users based on different data available.</p>
-<strong>Used Technologies</strong>
+<strong>Implemented Technologies</strong>
 <ul>
 <li>Material UI (MUI)</li>
 <li>React Redux</li>
